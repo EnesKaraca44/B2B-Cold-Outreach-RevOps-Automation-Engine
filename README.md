@@ -57,6 +57,7 @@ Capabilities include:
 *   Bypassing tough scraper captchas for specific enterprise targets.
 
 📫 **Contact me on LinkedIn or Upwork to discuss your Revenue Operations.**
-
+LinkedIn : https://www.linkedin.com/in/enes-karaca-277655299/
+Upwork : https://www.upwork.com/freelancers/~0143bae00c47e48a6a
 ---
 
