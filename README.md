@@ -59,4 +59,4 @@ Capabilities include:
 📫 **Contact me on LinkedIn or Upwork to discuss your Revenue Operations.**
 
 ---
-*Built with logic and efficiency by Enes Karaca (KDS Software Team)*
+
